@@ -32,7 +32,7 @@ Foi utilizado o modelo `RandomForestClassifier` para prever a qualidade do vinho
 
 ### ✅ Acurácia obtida
 
-O modelo obteve uma acurácia de aproximadamente **`92.8`** (substitua com o valor real obtido no seu código).
+O modelo obteve uma acurácia de aproximadamente **`92.8`**
 
 ## 📈 Visualizações
 
